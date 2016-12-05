@@ -9,7 +9,7 @@
   "bugs": {
     "url": "https://github.com/saikojosh/IfNotUndefined/issues"
   },
-  "name": "request-ninja",
+  "name": "ifnotundefined",
   "version": "0.0.1",
   "description": "A shorthand helper function for the pattern: const x = (typeof y !== 'undefined' ? y : 'default-value');",
   "keywords": [
