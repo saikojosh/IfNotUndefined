@@ -10,7 +10,7 @@
     "url": "https://github.com/saikojosh/IfNotUndefined/issues"
   },
   "name": "ifnotundefined",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A shorthand helper function for the pattern: const x = (typeof y !== 'undefined' ? y : 'default-value');",
   "keywords": [
     "undefined",
