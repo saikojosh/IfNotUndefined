@@ -1,0 +1,40 @@
+{
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saikojosh/IfNotUndefined.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saikojosh/IfNotUndefined/issues"
+  },
+  "name": "request-ninja",
+  "version": "0.0.5",
+  "description": "A shorthand helper function for the pattern: const x = (typeof y !== 'undefined' ? y : 'default-value');",
+  "keywords": [
+    "undefined",
+    "shorthand",
+    "if",
+    "ternary"
+  ],
+  "main": "index.js",
+  "author": "Josh Cole <saikojosh@gmail.com> (http://www.JoshuaCole.me)",
+  "contributors": [
+    {
+      "name": "Josh Cole",
+      "email": "saikojosh@gmail.com"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "latest",
+    "eslint-config-airbnb": "latest",
+    "eslint-config-settled": "latest",
+    "eslint-plugin-babel": "latest",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-jsx-a11y": "^2",
+    "eslint-plugin-react": "latest"
+  },
+  "license": "MIT"
+}
